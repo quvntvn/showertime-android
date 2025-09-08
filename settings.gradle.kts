@@ -20,5 +20,6 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "Shower Time"
-include(":app")
-include(":myapplication")
+include(":mobile")
+include(":wear")
+include(":common")
